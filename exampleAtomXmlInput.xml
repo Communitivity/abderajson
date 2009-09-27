@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:pe="http://purl.org/atompub/person-extensions/1.0"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.snellspace.com/wp/wp-atom1.php">
+  
+    
+  <icon>/favicon.png</icon>
+  <logo>/feedicon.png</logo>
+  <id>http://www.snellspace.com/wp/wp-atom1.php</id>
+  <updated>2009-07-21T18:46:10Z</updated>
+  <title type="text">snellspace.com</title>
+  <subtitle type="text">stuff I think about</subtitle>
+  <author>
+    <name>James M Snell</name>
+    <uri>http://www.snellspace.com/wp</uri>
+    <pe:profile type="xhtml" scheme="http://microformats.org/wiki/hcard">
+      <div class="vcard" xmlns="http://www.w3.org/1999/xhtml">
+        <a class="url fn" href="http://www.snellspace.com/wp">
+          <span class="given-name">James</span>
+          <span class="additional-name">M</span>
+          <span class="family-name">Snell</span>
+        </a>
+        <div class="org">snellspace.com</div>
+      </div>
+    </pe:profile>
+  </author> 
+  <link rel="self" href="" />
+  <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php" />
+  <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+  <link href="http://www.snellspace.com/wp" />
+  <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+  <generator uri="http://wordpress.org/" version="2.0.4">WordPress</generator>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=995</id>
+    <title type="html"><![CDATA[Switching Focus]]></title>
+    <updated>2009-07-21T10:46:10-08:00</updated>
+    <published>2009-07-21T10:46:10-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=995" thr:count="2"  />
+    <link href="?p=995" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Starting immediately, I have switched focuses and roles at IBM. I am excited to be the technical lead for the IBM CIO Technology &#038; Innovation organization&#8217;s new Security Innovations Team. After spending the past eight years championing and developing social networking and syndication technologies, it&#8217;s time for a change of focus.  The new team [...]</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Starting immediately, I have switched focuses and roles at IBM. I am excited to be the technical lead for the IBM CIO Technology &#038; Innovation organization&#8217;s new Security Innovations Team. After spending the past eight years championing and developing social networking and syndication technologies, it&#8217;s time for a change of focus.  The new team will focus on innovating new projects relating to a variety of security issues including identity, privacy, authentication, audit, cloud security, etc. Security has always been an underdeveloped passion of mine and I&#8217;m quite looking forward to the new opportunities.  Unfortunately, this pretty much means that my ability to focus on social networking and syndication technologies is going to go into severe decline over the coming months.
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=994</id>
+    <title type="html"><![CDATA[Atom Tombstones Draft Revitalized]]></title>
+    <updated>2009-06-08T14:42:17-08:00</updated>
+    <published>2009-06-08T14:42:17-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=994" thr:count="0"  />
+    <link href="?p=994" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">The Atom Tombstones draft had expired. As requested by several members of the Atom syntax mailing list, I have revitalized the draft.
+
+</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The <a href="http://www.ietf.org/internet-drafts/draft-snell-atompub-tombstones-06.txt">Atom Tombstones draft</a> had expired. As requested by several members of the Atom syntax mailing list, I have revitalized the draft.
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=993</id>
+    <title type="html"><![CDATA[Atom Bidi Draft Update]]></title>
+    <updated>2009-06-08T12:46:51-08:00</updated>
+    <published>2009-06-08T12:46:51-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=993" thr:count="0"  />
+    <link href="?p=993" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">The Atom Bidi Draft had expired. I posted a new version to revitalize it. Want to get this one finished for good.
+
+</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The <a href="http://www.ietf.org/internet-drafts/draft-snell-atompub-bidi-07.txt">Atom Bidi Draft</a> had expired. I posted a new version to revitalize it. Want to get this one finished for good.
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=992</id>
+    <title type="html"><![CDATA[HTTP Patch Progress]]></title>
+    <updated>2009-06-08T11:37:42-08:00</updated>
+    <published>2009-06-08T11:37:42-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=992" thr:count="0"  />
+    <link href="?p=992" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Thanks to Mark Nottingham and Lisa Dusseault, work on HTTP Patch has been progressing nicely. Looks like it&#8217;s pretty much done with the exception of a few minor issues. Perhaps it is time to start working on standardizing some Patch document formats?
+
+</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Thanks to Mark Nottingham and Lisa Dusseault, work on <a href="http://www.ietf.org/internet-drafts/draft-dusseault-http-patch-14.txt">HTTP Patch</a> has been progressing nicely. Looks like it&#8217;s pretty much done with the exception of a few minor issues. Perhaps it is time to start working on standardizing some Patch document formats?
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=991</id>
+    <title type="html"><![CDATA[Batched HTTP Requests, The I-D]]></title>
+    <updated>2009-06-08T08:43:32-08:00</updated>
+    <published>2009-06-08T08:43:32-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=991" thr:count="2"  />
+    <link href="?p=991" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Comments requested&#8230; http://www.ietf.org/internet-drafts/draft-snell-http-batch-00.txt
+Example from the draft:
+
+       POST /example/application HTTP/1.1
+       Host: example.org
+       Content-Type: multipart/batch;
+         type="application/http;version=1.1";
+         boundary=batch
+       [...]</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Comments requested&#8230; <a href="http://www.ietf.org/internet-drafts/draft-snell-http-batch-00.txt">http://www.ietf.org/internet-drafts/draft-snell-http-batch-00.txt</a></p>
+<p>Example from the draft:</p>
+<pre>
+       POST /example/application HTTP/1.1
+       Host: example.org
+       Content-Type: multipart/batch;
+         type="application/http;version=1.1";
+         boundary=batch
+       Mime-Version: 1.0
+
+       --batch
+       Content-Type: application/http;version=1.1
+       Content-Transfer-Encoding: binary
+       Content-ID: &lt;df536860-34f9-11de-b418-0800200c9a66@example.org&gt;
+
+       POST /example/application HTTP/1.1
+       Host: example.org
+       Content-Type: text/plain
+       Content-Length: 3
+
+       Foo
+       --batch
+       Content-Type: application/http;version=1.1
+       Content-Transfer-Encoding: binary
+       Content-ID: &lt;226e35d0-34fa-11de-b418-0800200c9a66@example.org&gt;
+
+       PUT /example/application/resource HTTP/1.1
+       Host: example.org
+       Content-Type: image/jpg
+       Content-Length: 123456
+
+       {jpg image data}
+       --batch--
+</pre>
+<p>And the response&#8230;</p>
+<pre>
+       HTTP/1.1 200 OK
+       Date: Wed, 29 Apr 2009 20:00:00 GMT
+       Server: example.org
+       Content-Type: multipart/batch;
+         type="application/http;type=1.1";
+         boundary=batch
+       Mime-Version: 1.0
+
+       --batch
+       Content-Type: application/http;version=1.1
+       Content-Transfer-Encoding: binary
+       In-Reply-To: &lt;df536860-34f9-11de-b418-0800200c9a66@example.org&gt;
+
+       HTTP/1.1 204 OK
+       Date: Wed, 29 Apr 2009 20:00:00 GMT
+       Server: example.org
+
+       --batch
+       Content-Type: application/http;version=1.1
+       Content-Transfer-Encoding: binary
+       In-Reply-To: &lt;226e35d0-34fa-11de-b418-0800200c9a66@example.org&gt;
+
+       HTTP/1.1 415 Unsupported Media Type
+       Date: Wed, 29 Apr 2009 20:00:00 GMT
+       Server: example.org
+
+       --batch--
+</pre>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=990</id>
+    <title type="html"><![CDATA[Touching]]></title>
+    <updated>2009-06-01T11:14:34-08:00</updated>
+    <published>2009-06-01T11:14:34-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=990" thr:count="0"  />
+    <link href="?p=990" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">A good friend of ours is an elementary school teacher who has been teaching at a small rural school here in the Central valley for a few years.  He recently decided to take a higher paying position in a different district so that he and his wife could have enough money to start their [...]</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>A good friend of ours is an elementary school teacher who has been teaching at a small rural school here in the Central valley for a few years.  He recently decided to take a higher paying position in a different district so that he and his wife could have enough money to start their own family.  Last week he announced his decision to the kids in his class and the responses have been amazingly touching and heartbreaking.  He posted the following note to his Facebook profile and I asked him permission to share it.  I&#8217;ve edited his name down to just &#8220;Mr. H.&#8221; in the note below.</p>
+<blockquote>
+<p>As many of you know I am changing districts this year. I shared with my students about this, and explained to them that it had only to do with the opportunity to start a family of my own sooner, and have the opportunity to advance. This was greeted by tears from my students and returned tears from myself. Definitely has been very difficult because I wanted to give them the chance to say goodbye, and wanted to be able to say goodbye myself. I did not want them to hear it from anyone other than me.</p>
+<p>Here are a few responses that they have given me, that I plan on keeping throughout my career. I love this school and these kids. And it is difficult to leave them.</p>
+<p>From a quick response on what to expect from this week:</p>
+<p>&#8220;What I do NOT want from this week is [Mr. H.] leaving from this school. I do not want him to leave because he is a great teacher and he does a lot of fun things&#8230;&#8221;</p>
+<p>After I announced I would be leaving, the students asked to write me a letter, which I granted them here are a few exerpts:</p>
+<p>&#8220;Dear [Mr. H.], I feel sad because you always have fun and tell us stories. I also never had a teacher so nice to me like you&#8230;&#8221;</p>
+<p>&#8220;I feel horrible and depressed in my heart [Mr. H.]. You feel like a father to me. I never had a father so funny, strong, happy and energetic. I wish you stayed at [B] Elementary. I will miss you with all of my heart. [Mr. H.] I will miss your laugh, your strongness, and your happiness. I want you to stay, please don&#8217;t leave,&#8221;</p>
+<p>&#8220;Dear [Mr. H.], Now that I know you are leaving I feel sad. I understand that you need more money for your family and that you&#8217;re going to make a family with your wife. I hope you live good and fine with your family and your new work. I&#8217;ll miss you a lot. You were a great teacher&#8230;&#8221;</p>
+<p>&#8220;[Mr. H.], I &#8216;ve been in your class for two years and I&#8217;m going to miss you. I feel kind of hurt, but I&#8217;ll be alright. Since I known you, I&#8217;ve always been the quiet one. But you made me bring out my outer voice. I went from shy to very talkative. I will also miss when you try to fix friendship problems. You are the first teacher I know that doesn&#8217;t use yelling as a way to make someone listen to you. Although I am hurt, I understrand that you want to have a family. It&#8217;s a couple&#8217;s dream to have kids and to be parents. I just want to wish you the best for your soon to come family. I can tell you that no teacher can replace you and your telling stories. I wish you all the luck in the world,. NEVER FORGET US!&#8221;</p>
+<p>&#8220;[Mr. H.] I&#8217;ve been in your class for one year, and I&#8217;m already gotten used to you. I don&#8217;t want you to retire. I want you to still be in this school and this class. I understand you want to have a family but it&#8217;s like you are part of my family. I&#8217;m going to miss you a lot&#8230; you&#8217;re the best teacher I&#8217;ve ever had. I hope you will miss me the way I will. I am so sad.&#8221;</p>
+<p>&#8220;[Mr. H.], I&#8217;m going to miss you but I want to let you know that you were the best teacher I have ever had. You were nice even when you were totally mad. You helt it in and I got a poem for you.</p>
+<p>Teachers will go,<br />
+Teacher will come,<br />
+But I want to let you,<br />
+know that you were,<br />
+the best one,<br />
+well go on hope,<br />
+you have fun,<br />
+don&#8217;t forget me or,<br />
+anyone&#8221;</p>
+<p>&#8220;I feel sad because you are one of the best teachers I ever had and coach. Thank you for teaching us I will always remember your stories&#8230;&#8221;</p>
+<p>Sure makes it hard to leave a school I already love.</p>
+</blockquote>
+<p>One thing to keep in mind is that most of these students have very little in their lives. Many, if not most, are the children of immigrant farm laborers who struggle daily to provide even for the most basic necessities.  Many have had to deal with gangs, the lack of one or both of their parents, etc. School for them is not just something they have to do, it is an integral part of their lives and their teachers become a part of their family.  For many, school provides the only sense of stability they&#8217;ve ever known.</p>
+<p>I&#8217;ve had the privilege of visiting my friend at his school and seeing the way he interacts with the kids and have seen the way they look up to him.  I can only wish that someday in my life I might have the opportunity to touch someone else&#8217;s life in that way.
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=989</id>
+    <title type="html"><![CDATA[Readers are dead]]></title>
+    <updated>2009-05-05T08:56:43-08:00</updated>
+    <published>2009-05-05T08:56:43-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=989" thr:count="0"  />
+    <link href="?p=989" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Dare: &#8220;Looking back now, it seems to me that the way we think of RSS readers needs to fundamentally change. Presenting information as a news feed where the user isn’t pressured to read every item or feel like a failure is one way to move the needle on the user experience here. What I wonder [...]</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://www.25hoursaday.com/weblog/2009/05/05/RSSReadersModeledAfterEmailClientsAreFundamentallyBroken.aspx">Dare</a>: &#8220;<i>Looking back now, it seems to me that the way we think of RSS readers needs to fundamentally change. Presenting information as a news feed where the user isn’t pressured to read every item or feel like a failure is one way to move the needle on the user experience here. What I wonder is whether it isn’t already too late for this category of applications as services like Twitter &amp; Facebook take over as how people keep up to date with what’s going on with the people and content they care about.</i>&#8221;</p>
+<p>The short answer is Yes, it is too late.  Feed reader developers made a number of fundamental mistakes early on when they all tried to make feeds act and look like email.  What had been an opportunity to improve the way we consume information turned into yet another giant unmanageable inbox.  Feeds themselves are still extremely viable and useful as a technology.  Feed readers, however, need to evolve or go away.</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=988</id>
+    <title type="html"><![CDATA[A few more]]></title>
+    <updated>2009-05-01T07:51:00-08:00</updated>
+    <published>2009-05-01T07:51:00-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=988" thr:count="0"  />
+    <link href="?p=988" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">We received a few more pics from the photographer from Jen&#8217;s photoshoot in early April. Turned out really well I think.
+
+
+
+
+
+</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>We received a few more pics from the photographer from Jen&#8217;s photoshoot in early April. Turned out really well I think.</p>
+<p><a href="http://www.flickr.com/photos/jasnell/3489913087/" title="Beauty by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3577/3489913087_e4c8cab720_m.jpg" width="160" height="240" alt="Beauty" /></a></p>
+<p><a href="http://www.flickr.com/photos/jasnell/3489912609/" title="Beauty by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3411/3489912609_bcbfc4947d_m.jpg" width="160" height="240" alt="Beauty" /></a></p>
+<p><a href="http://www.flickr.com/photos/jasnell/3490726260/" title="Beauty by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3315/3490726260_264d9542e2_m.jpg" width="160" height="240" alt="Beauty" /></a></p>
+<p><a href="http://www.flickr.com/photos/jasnell/3489911809/" title="Beauty by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3585/3489911809_feaa2138ec_m.jpg" width="160" height="240" alt="Beauty" /></a>
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=987</id>
+    <title type="html"><![CDATA[Atompub failure?]]></title>
+    <updated>2009-04-24T08:32:39-08:00</updated>
+    <published>2009-04-24T08:32:39-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=987" thr:count="1"  />
+    <link href="?p=987" />
+    <category scheme="http://www.snellspace.com/wp/" term="Technology" />
+    <category scheme="http://www.snellspace.com/wp/" term="Atom 1.0" />
+    <category scheme="http://www.snellspace.com/wp/" term="really damn annoying" />
+    <category scheme="http://www.snellspace.com/wp/" term="standards" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">So Joe Gregorio apparently now thinks Atompub is a failure&#8230; excuse me while I sigh deeply and shake my head&#8230;
+
+</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>So Joe Gregorio apparently <a href="http://bitworking.org/news/425/atompub-is-a-failure">now thinks Atompub is a failure</a>&#8230; excuse me while I sigh deeply and shake my head&#8230;
+</p>
+</div></content>
+  </entry>
+    <entry xml:base="http://www.snellspace.com/wp/">
+    <id>http://www.snellspace.com/wp/?p=986</id>
+    <title type="html"><![CDATA[One Gorgeous Girl]]></title>
+    <updated>2009-04-16T09:18:26-08:00</updated>
+    <published>2009-04-16T09:18:26-08:00</published>
+    <author>
+      <name>James M Snell</name>
+      <uri>http://www.snellspace.com/wp</uri>  
+    </author>
+    <rights type="text">Copyright 2009, James M Snell. Some rights reserved.</rights>
+    <link rel="license" type="application/rdf+xml" href="http://creativecommons.org/licenses/by-nc/2.5/rdf" />
+    <link rel="replies" type="application/atom+xml" href="wp-commentsatom1.php?p=986" thr:count="0"  />
+    <link href="?p=986" />
+    <category scheme="http://www.snellspace.com/wp/" term="Personal" />
+     
+   
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">
+(photo by Ken Weisenberger, Freelance Photographer, Cropped by me) 
+Jen has always wanted to try her hand at a bit of modeling.  Now that the kids are older, she&#8217;s decided to scratch that itch. Isn&#8217;t she gorgeous ;-)
+Here&#8217;s another&#8230;
+
+(photo by James Snell)
+
+(photo by Ken Weisenberger, Freelance Photographer)
+
+</div></summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://www.flickr.com/photos/jasnell/3447999552/" title="Jennifer #1 by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3380/3447999552_71c1458c9f.jpg" width="500" height="281" alt="Jennifer #1" /></a><br />
+(photo by Ken Weisenberger, Freelance Photographer, Cropped by me) </p>
+<p>Jen has always wanted to try her hand at a bit of modeling.  Now that the kids are older, she&#8217;s decided to scratch that itch. Isn&#8217;t she gorgeous ;-)</p>
+<p>Here&#8217;s another&#8230;</p>
+<p><a href="http://www.flickr.com/photos/jasnell/3399316020/" title="DSC00263 by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3651/3399316020_3968d86712.jpg" width="500" height="385" alt="DSC00263" /></a><br />
+(photo by James Snell)</p>
+<p><a href="http://www.flickr.com/photos/jasnell/3447183601/" title="Jennifer #5 by JamesMSnell, on Flickr"><img src="http://farm4.static.flickr.com/3323/3447183601_cc6cc3ea43.jpg" width="333" height="500" alt="Jennifer #5" /></a><br />
+(photo by Ken Weisenberger, Freelance Photographer)
+</p>
+</div></content>
+  </entry>
+  </feed>

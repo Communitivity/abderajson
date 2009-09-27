@@ -1,0 +1,1175 @@
+{
+ "lang":"en",
+ "id":"http://www.snellspace.com/wp/wp-atom1.php",
+ "title":"snellspace.com",
+ "subtitle":"stuff I think about",
+ "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+ "updated":"2009-07-21T18:46:10.000Z",
+ "generator":{
+  "version":"2.0.4",
+  "uri":"http://wordpress.org/",
+  "value":"WordPress"
+ },
+ "icon":"http://www.snellspace.com/favicon.png",
+ "logo":"http://www.snellspace.com/feedicon.png",
+ "authors":[{
+   "name":"James M Snell",
+   "uri":"http://www.snellspace.com/wp",
+   "extensions":[{
+     "name":"pe:profile",
+     "attributes":{
+      "xmlns:pe":"http://purl.org/atompub/person-extensions/1.0",
+      "type":"xhtml",
+      "scheme":"http://microformats.org/wiki/hcard"
+     },
+     "children":["\n      ",{
+       "name":"div",
+       "attributes":{
+        "xmlns":"http://www.w3.org/1999/xhtml",
+        "class":"vcard"
+       },
+       "children":["\n        ",{
+         "name":"a",
+         "attributes":{
+          "class":"url fn",
+          "href":"http://www.snellspace.com/wp"
+         },
+         "children":["\n          ",{
+           "name":"span",
+           "attributes":{
+            "class":"given-name"
+           },
+           "children":["James"
+           ]
+          },"\n          ",{
+           "name":"span",
+           "attributes":{
+            "class":"additional-name"
+           },
+           "children":["M"
+           ]
+          },"\n          ",{
+           "name":"span",
+           "attributes":{
+            "class":"family-name"
+           },
+           "children":["Snell"
+           ]
+          },"\n        "
+         ]
+        },"\n        ",{
+         "name":"div",
+         "attributes":{
+          "class":"org"
+         },
+         "children":["snellspace.com"
+         ]
+        },"\n      "
+       ]
+      },"\n    "
+     ]
+    }
+   ]
+  }
+ ],
+ "links":[{
+   "href":"http://www.snellspace.com/wp/wp-atom1.php",
+   "rel":"self"
+  },{
+   "href":"http://www.snellspace.com/wp/wp-commentsatom1.php",
+   "rel":"replies",
+   "type":"application/atom+xml"
+  },{
+   "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+   "rel":"license",
+   "type":"application/rdf+xml"
+  },{
+   "href":"http://www.snellspace.com/wp"
+  }
+ ],
+ "entries":[{
+   "id":"http://www.snellspace.com/wp/?p=995",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Switching Focus"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["Starting immediately, I have switched focuses and roles at IBM. I am excited to be the technical lead for the IBM CIO Technology & Innovation organization\u2019s new Security Innovations Team. After spending the past eight years championing and developing social networking and syndication technologies, it\u2019s time for a change of focus.  The new team [...]"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["Starting immediately, I have switched focuses and roles at IBM. I am excited to be the technical lead for the IBM CIO Technology & Innovation organization\u2019s new Security Innovations Team. After spending the past eight years championing and developing social networking and syndication technologies, it\u2019s time for a change of focus.  The new team will focus on innovating new projects relating to a variety of security issues including identity, privacy, authentication, audit, cloud security, etc. Security has always been an underdeveloped passion of mine and I\u2019m quite looking forward to the new opportunities.  Unfortunately, this pretty much means that my ability to focus on social networking and syndication technologies is going to go into severe decline over the coming months.\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-07-21T18:46:10.000Z",
+   "published":"2009-07-21T18:46:10.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=995",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"2"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=995"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=994",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Atom Tombstones Draft Revitalized"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["The Atom Tombstones draft had expired. As requested by several members of the Atom syntax mailing list, I have revitalized the draft.\n\n"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["The ",{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.ietf.org/internet-drafts/draft-snell-atompub-tombstones-06.txt"
+        },
+        "children":["Atom Tombstones draft"
+        ]
+       }," had expired. As requested by several members of the Atom syntax mailing list, I have revitalized the draft.\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-06-08T22:42:17.000Z",
+   "published":"2009-06-08T22:42:17.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=994",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=994"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=993",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Atom Bidi Draft Update"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["The Atom Bidi Draft had expired. I posted a new version to revitalize it. Want to get this one finished for good.\n\n"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["The ",{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.ietf.org/internet-drafts/draft-snell-atompub-bidi-07.txt"
+        },
+        "children":["Atom Bidi Draft"
+        ]
+       }," had expired. I posted a new version to revitalize it. Want to get this one finished for good.\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-06-08T20:46:51.000Z",
+   "published":"2009-06-08T20:46:51.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=993",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=993"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=992",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["HTTP Patch Progress"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["Thanks to Mark Nottingham and Lisa Dusseault, work on HTTP Patch has been progressing nicely. Looks like it\u2019s pretty much done with the exception of a few minor issues. Perhaps it is time to start working on standardizing some Patch document formats?\n\n"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["Thanks to Mark Nottingham and Lisa Dusseault, work on ",{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.ietf.org/internet-drafts/draft-dusseault-http-patch-14.txt"
+        },
+        "children":["HTTP Patch"
+        ]
+       }," has been progressing nicely. Looks like it\u2019s pretty much done with the exception of a few minor issues. Perhaps it is time to start working on standardizing some Patch document formats?\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-06-08T19:37:42.000Z",
+   "published":"2009-06-08T19:37:42.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=992",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=992"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=991",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Batched HTTP Requests, The I-D"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["Comments requested\u2026 http://www.ietf.org/internet-drafts/draft-snell-http-batch-00.txt\nExample from the draft:\n\n       POST /example/application HTTP/1.1\n       Host: example.org\n       Content-Type: multipart/batch;\n         type=\"application/http;version=1.1\";\n         boundary=batch\n       [...]"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["Comments requested\u2026 ",{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.ietf.org/internet-drafts/draft-snell-http-batch-00.txt"
+        },
+        "children":["http://www.ietf.org/internet-drafts/draft-snell-http-batch-00.txt"
+        ]
+       }
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["Example from the draft:"
+      ]
+     },"\n",{
+      "name":"pre",
+      "attributes":{
+      },
+      "children":["\n       POST /example/application HTTP/1.1\n       Host: example.org\n       Content-Type: multipart/batch;\n         type=\"application/http;version=1.1\";\n         boundary=batch\n       Mime-Version: 1.0\n\n       --batch\n       Content-Type: application/http;version=1.1\n       Content-Transfer-Encoding: binary\n       Content-ID: <df536860-34f9-11de-b418-0800200c9a66@example.org>\n\n       POST /example/application HTTP/1.1\n       Host: example.org\n       Content-Type: text/plain\n       Content-Length: 3\n\n       Foo\n       --batch\n       Content-Type: application/http;version=1.1\n       Content-Transfer-Encoding: binary\n       Content-ID: <226e35d0-34fa-11de-b418-0800200c9a66@example.org>\n\n       PUT /example/application/resource HTTP/1.1\n       Host: example.org\n       Content-Type: image/jpg\n       Content-Length: 123456\n\n       {jpg image data}\n       --batch--\n"
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["And the response\u2026"
+      ]
+     },"\n",{
+      "name":"pre",
+      "attributes":{
+      },
+      "children":["\n       HTTP/1.1 200 OK\n       Date: Wed, 29 Apr 2009 20:00:00 GMT\n       Server: example.org\n       Content-Type: multipart/batch;\n         type=\"application/http;type=1.1\";\n         boundary=batch\n       Mime-Version: 1.0\n\n       --batch\n       Content-Type: application/http;version=1.1\n       Content-Transfer-Encoding: binary\n       In-Reply-To: <df536860-34f9-11de-b418-0800200c9a66@example.org>\n\n       HTTP/1.1 204 OK\n       Date: Wed, 29 Apr 2009 20:00:00 GMT\n       Server: example.org\n\n       --batch\n       Content-Type: application/http;version=1.1\n       Content-Transfer-Encoding: binary\n       In-Reply-To: <226e35d0-34fa-11de-b418-0800200c9a66@example.org>\n\n       HTTP/1.1 415 Unsupported Media Type\n       Date: Wed, 29 Apr 2009 20:00:00 GMT\n       Server: example.org\n\n       --batch--\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-06-08T16:43:32.000Z",
+   "published":"2009-06-08T16:43:32.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=991",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"2"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=991"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=990",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Touching"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["A good friend of ours is an elementary school teacher who has been teaching at a small rural school here in the Central valley for a few years.  He recently decided to take a higher paying position in a different district so that he and his wife could have enough money to start their [...]"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["A good friend of ours is an elementary school teacher who has been teaching at a small rural school here in the Central valley for a few years.  He recently decided to take a higher paying position in a different district so that he and his wife could have enough money to start their own family.  Last week he announced his decision to the kids in his class and the responses have been amazingly touching and heartbreaking.  He posted the following note to his Facebook profile and I asked him permission to share it.  I\u2019ve edited his name down to just \u201cMr. H.\u201d in the note below."
+      ]
+     },"\n",{
+      "name":"blockquote",
+      "attributes":{
+      },
+      "children":["\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["As many of you know I am changing districts this year. I shared with my students about this, and explained to them that it had only to do with the opportunity to start a family of my own sooner, and have the opportunity to advance. This was greeted by tears from my students and returned tears from myself. Definitely has been very difficult because I wanted to give them the chance to say goodbye, and wanted to be able to say goodbye myself. I did not want them to hear it from anyone other than me."
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["Here are a few responses that they have given me, that I plan on keeping throughout my career. I love this school and these kids. And it is difficult to leave them."
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["From a quick response on what to expect from this week:"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201cWhat I do NOT want from this week is [Mr. H.] leaving from this school. I do not want him to leave because he is a great teacher and he does a lot of fun things\u2026\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["After I announced I would be leaving, the students asked to write me a letter, which I granted them here are a few exerpts:"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201cDear [Mr. H.], I feel sad because you always have fun and tell us stories. I also never had a teacher so nice to me like you\u2026\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201cI feel horrible and depressed in my heart [Mr. H.]. You feel like a father to me. I never had a father so funny, strong, happy and energetic. I wish you stayed at [B] Elementary. I will miss you with all of my heart. [Mr. H.] I will miss your laugh, your strongness, and your happiness. I want you to stay, please don\u2019t leave,\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201cDear [Mr. H.], Now that I know you are leaving I feel sad. I understand that you need more money for your family and that you\u2019re going to make a family with your wife. I hope you live good and fine with your family and your new work. I\u2019ll miss you a lot. You were a great teacher\u2026\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201c[Mr. H.], I \u2018ve been in your class for two years and I\u2019m going to miss you. I feel kind of hurt, but I\u2019ll be alright. Since I known you, I\u2019ve always been the quiet one. But you made me bring out my outer voice. I went from shy to very talkative. I will also miss when you try to fix friendship problems. You are the first teacher I know that doesn\u2019t use yelling as a way to make someone listen to you. Although I am hurt, I understrand that you want to have a family. It\u2019s a couple\u2019s dream to have kids and to be parents. I just want to wish you the best for your soon to come family. I can tell you that no teacher can replace you and your telling stories. I wish you all the luck in the world,. NEVER FORGET US!\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201c[Mr. H.] I\u2019ve been in your class for one year, and I\u2019m already gotten used to you. I don\u2019t want you to retire. I want you to still be in this school and this class. I understand you want to have a family but it\u2019s like you are part of my family. I\u2019m going to miss you a lot\u2026 you\u2019re the best teacher I\u2019ve ever had. I hope you will miss me the way I will. I am so sad.\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201c[Mr. H.], I\u2019m going to miss you but I want to let you know that you were the best teacher I have ever had. You were nice even when you were totally mad. You helt it in and I got a poem for you."
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["Teachers will go,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nTeacher will come,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nBut I want to let you,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nknow that you were,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nthe best one,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nwell go on hope,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nyou have fun,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\ndon\u2019t forget me or,",{
+          "name":"br",
+          "attributes":{
+          },
+          "children":[
+          ]
+         },"\nanyone\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["\u201cI feel sad because you are one of the best teachers I ever had and coach. Thank you for teaching us I will always remember your stories\u2026\u201d"
+        ]
+       },"\n",{
+        "name":"p",
+        "attributes":{
+        },
+        "children":["Sure makes it hard to leave a school I already love."
+        ]
+       },"\n"
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["One thing to keep in mind is that most of these students have very little in their lives. Many, if not most, are the children of immigrant farm laborers who struggle daily to provide even for the most basic necessities.  Many have had to deal with gangs, the lack of one or both of their parents, etc. School for them is not just something they have to do, it is an integral part of their lives and their teachers become a part of their family.  For many, school provides the only sense of stability they\u2019ve ever known."
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["I\u2019ve had the privilege of visiting my friend at his school and seeing the way he interacts with the kids and have seen the way they look up to him.  I can only wish that someday in my life I might have the opportunity to touch someone else\u2019s life in that way.\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-06-01T19:14:34.000Z",
+   "published":"2009-06-01T19:14:34.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=990",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=990"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=989",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Readers are dead"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["Dare: \u201cLooking back now, it seems to me that the way we think of RSS readers needs to fundamentally change. Presenting information as a news feed where the user isn\u2019t pressured to read every item or feel like a failure is one way to move the needle on the user experience here. What I wonder [...]"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.25hoursaday.com/weblog/2009/05/05/RSSReadersModeledAfterEmailClientsAreFundamentallyBroken.aspx"
+        },
+        "children":["Dare"
+        ]
+       },": \u201c",{
+        "name":"i",
+        "attributes":{
+        },
+        "children":["Looking back now, it seems to me that the way we think of RSS readers needs to fundamentally change. Presenting information as a news feed where the user isn\u2019t pressured to read every item or feel like a failure is one way to move the needle on the user experience here. What I wonder is whether it isn\u2019t already too late for this category of applications as services like Twitter & Facebook take over as how people keep up to date with what\u2019s going on with the people and content they care about."
+        ]
+       },"\u201d"
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["The short answer is Yes, it is too late.  Feed reader developers made a number of fundamental mistakes early on when they all tried to make feeds act and look like email.  What had been an opportunity to improve the way we consume information turned into yet another giant unmanageable inbox.  Feeds themselves are still extremely viable and useful as a technology.  Feed readers, however, need to evolve or go away."
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-05-05T16:56:43.000Z",
+   "published":"2009-05-05T16:56:43.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=989",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=989"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=988",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["A few more"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["We received a few more pics from the photographer from Jen\u2019s photoshoot in early April. Turned out really well I think.\n\n\n\n\n\n"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["We received a few more pics from the photographer from Jen\u2019s photoshoot in early April. Turned out really well I think."
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3489913087/",
+         "title":"Beauty by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3577/3489913087_e4c8cab720_m.jpg",
+           "width":"160",
+           "height":"240",
+           "alt":"Beauty"
+          },
+          "children":[
+          ]
+         }
+        ]
+       }
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3489912609/",
+         "title":"Beauty by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3411/3489912609_bcbfc4947d_m.jpg",
+           "width":"160",
+           "height":"240",
+           "alt":"Beauty"
+          },
+          "children":[
+          ]
+         }
+        ]
+       }
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3490726260/",
+         "title":"Beauty by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3315/3490726260_264d9542e2_m.jpg",
+           "width":"160",
+           "height":"240",
+           "alt":"Beauty"
+          },
+          "children":[
+          ]
+         }
+        ]
+       }
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3489911809/",
+         "title":"Beauty by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3585/3489911809_feaa2138ec_m.jpg",
+           "width":"160",
+           "height":"240",
+           "alt":"Beauty"
+          },
+          "children":[
+          ]
+         }
+        ]
+       },"\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-05-01T15:51:00.000Z",
+   "published":"2009-05-01T15:51:00.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=988",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=988"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=987",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["Atompub failure?"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["So Joe Gregorio apparently now thinks Atompub is a failure\u2026 excuse me while I sigh deeply and shake my head\u2026\n\n"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["So Joe Gregorio apparently ",{
+        "name":"a",
+        "attributes":{
+         "href":"http://bitworking.org/news/425/atompub-is-a-failure"
+        },
+        "children":["now thinks Atompub is a failure"
+        ]
+       },"\u2026 excuse me while I sigh deeply and shake my head\u2026\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-04-24T16:32:39.000Z",
+   "published":"2009-04-24T16:32:39.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=987",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"1"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=987"
+    }
+   ],
+   "categories":[{
+     "term":"Technology",
+     "scheme":"http://www.snellspace.com/wp/"
+    },{
+     "term":"Atom 1.0",
+     "scheme":"http://www.snellspace.com/wp/"
+    },{
+     "term":"really damn annoying",
+     "scheme":"http://www.snellspace.com/wp/"
+    },{
+     "term":"standards",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  },{
+   "id":"http://www.snellspace.com/wp/?p=986",
+   "title":{
+    "attributes":{
+     "type":"html"
+    },
+    "children":["One Gorgeous Girl"
+    ]
+   },
+   "summary":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":["\n(photo by Ken Weisenberger, Freelance Photographer, Cropped by me) \nJen has always wanted to try her hand at a bit of modeling.  Now that the kids are older, she\u2019s decided to scratch that itch. Isn\u2019t she gorgeous ;-)\nHere\u2019s another\u2026\n\n(photo by James Snell)\n\n(photo by Ken Weisenberger, Freelance Photographer)\n\n"
+    ]
+   },
+   "rights":"Copyright 2009, James M Snell. Some rights reserved.",
+   "content":{
+    "attributes":{
+     "type":"xhtml"
+    },
+    "children":[{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3447999552/",
+         "title":"Jennifer #1 by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3380/3447999552_71c1458c9f.jpg",
+           "width":"500",
+           "height":"281",
+           "alt":"Jennifer #1"
+          },
+          "children":[
+          ]
+         }
+        ]
+       },{
+        "name":"br",
+        "attributes":{
+        },
+        "children":[
+        ]
+       },"\n(photo by Ken Weisenberger, Freelance Photographer, Cropped by me) "
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["Jen has always wanted to try her hand at a bit of modeling.  Now that the kids are older, she\u2019s decided to scratch that itch. Isn\u2019t she gorgeous ;-)"
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":["Here\u2019s another\u2026"
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3399316020/",
+         "title":"DSC00263 by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3651/3399316020_3968d86712.jpg",
+           "width":"500",
+           "height":"385",
+           "alt":"DSC00263"
+          },
+          "children":[
+          ]
+         }
+        ]
+       },{
+        "name":"br",
+        "attributes":{
+        },
+        "children":[
+        ]
+       },"\n(photo by James Snell)"
+      ]
+     },"\n",{
+      "name":"p",
+      "attributes":{
+      },
+      "children":[{
+        "name":"a",
+        "attributes":{
+         "href":"http://www.flickr.com/photos/jasnell/3447183601/",
+         "title":"Jennifer #5 by JamesMSnell, on Flickr"
+        },
+        "children":[{
+          "name":"img",
+          "attributes":{
+           "src":"http://farm4.static.flickr.com/3323/3447183601_cc6cc3ea43.jpg",
+           "width":"333",
+           "height":"500",
+           "alt":"Jennifer #5"
+          },
+          "children":[
+          ]
+         }
+        ]
+       },{
+        "name":"br",
+        "attributes":{
+        },
+        "children":[
+        ]
+       },"\n(photo by Ken Weisenberger, Freelance Photographer)\n"
+      ]
+     },"\n"
+    ]
+   },
+   "updated":"2009-04-16T17:18:26.000Z",
+   "published":"2009-04-16T17:18:26.000Z",
+   "authors":[{
+     "name":"James M Snell",
+     "uri":"http://www.snellspace.com/wp"
+    }
+   ],
+   "links":[{
+     "href":"http://creativecommons.org/licenses/by-nc/2.5/rdf",
+     "rel":"license",
+     "type":"application/rdf+xml"
+    },{
+     "href":"http://www.snellspace.com/wp/wp-commentsatom1.php?p=986",
+     "rel":"replies",
+     "type":"application/atom+xml",
+     "attributes":{
+      "thr:count":{
+       "attributes":{
+        "xmlns:thr":"http://purl.org/syndication/thread/1.0"
+       },
+       "value":"0"
+      }
+     }
+    },{
+     "href":"http://www.snellspace.com/wp/?p=986"
+    }
+   ],
+   "categories":[{
+     "term":"Personal",
+     "scheme":"http://www.snellspace.com/wp/"
+    }
+   ],
+   "attributes":{
+    "xml:base":"http://www.snellspace.com/wp/"
+   }
+  }
+ ],
+ "attributes":{
+  "xml:lang":"en",
+  "xml:base":"http://www.snellspace.com/wp/wp-atom1.php"
+ }
+}
