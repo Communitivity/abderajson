@@ -1,0 +1,19 @@
+The pom in pom.should.work.xml should work, but doesn't. From what I've read
+this may be because several components in Abdera try to do fancy things with class laoders:
+ServiceUtils, Axiom, and Commons Logging to name some. As a result I am getting a 
+ClassNotFound exception on org.apache.abdera.Abdera.
+
+No..issue is that maen archiver is setting unique version of snapshot directory names, which is wrong
+Tried useUniqueVersions element , but it doesnt pick it up, throws error.
+
+The result? I just copied the libs to ${basedir}/lib and am trying to run using std layout and classPathPrefix of lib.
+Copy performed by extracting contents of Classpath-Entries in jar manifest created from pom.should.work.. to input.txt and
+ running splitcp.rb | xargs -J % echo cp % lib/
+
+Hmm, till doesnt work. Abdera is trying to be too clever am guessing. Switching to trying 
+ java -cp lib/'*':target/abderajson-1.0-SNAPSHOT.jar org.communitivity.abderajson.JsonProducer
+
+Curiously, also didn't work. Coming to conclusion 1.0-SNAPSHOT is broken. Going to 0.4.0-incubating
+Everything worked with that, using the pom.xml that creates class path entries from repo.
+Ran with
+ java -jar target/abderajson-1.0-SNAPSHOT.jar 
